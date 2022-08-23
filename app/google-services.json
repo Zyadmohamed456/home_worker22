@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "723264162032",
+    "project_id": "home-worker22",
+    "storage_bucket": "home-worker22.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:723264162032:android:8e667d9b71d271e35c9a35",
+        "android_client_info": {
+          "package_name": "com.example.home_worker22"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "723264162032-n59gl7baafrumiajepur4eakns10ieom.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyB5_7ZL8PZI4RAsPqvOWWwpXEQfdd4xPAs"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "723264162032-n59gl7baafrumiajepur4eakns10ieom.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
